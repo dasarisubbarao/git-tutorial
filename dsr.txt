@@ -1,2 +1,1 @@
 Thi is a text file
-I added new line from remote
